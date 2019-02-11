@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to fun for all
 
-You can use the [editor on GitHub](https://github.com/smallfry1234567/smallfry.fun-for-alll/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ [editor on GitHub](https://github.com/smallfry1234567/smallfry.fun-for-alll/edit/master/README.md) is a website that has a variety of games for everyone.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
