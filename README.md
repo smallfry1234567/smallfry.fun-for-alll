@@ -4,16 +4,14 @@
 
 Whenever you are board just log on to fun for all with your account info and all of your gamre progress will be saved
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### fun for all
+fun for all is a company devoted to making safe games for all kids
 ```markdown
-Syntax highlighted code block
+all games
 
-# Header 1
-## Header 2
-### Header 3
+# block jumper
+## house builder
+### life
 
 - Bulleted
 - List
